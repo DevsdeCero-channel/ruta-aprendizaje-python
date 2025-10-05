@@ -10,10 +10,12 @@ Diseñado para ser **legible, intuitivo y fácil** para el programador.
 * **Sintaxis Legible:** El código se asemeja al lenguaje humano, facilitando su escritura y mantenimiento.
 * **Portabilidad:** El código funciona sin cambios en diferentes sistemas operativos (Windows, macOS, Linux).
 
-### 2. Lenguaje interpretado (el motor)
-El código se lee y ejecuta **línea por línea** por un programa llamado **Intérprete de Python** (el más común es **CPython**, escrito en lenguaje C).
-* **Lo que instalas:** Al descargar Python, instalas el intérprete, que es el "motor" que traduce tu código Python a un lenguaje que la máquina puede entender.
-* **Traducción Dinámica:** La traducción sucede al momento de la ejecución.
+### 2. Lenguaje interpretado
+El código se lee y ejecuta **línea por línea** por un programa llamado **intérprete de Python** (el más común es **CPython**, escrito en lenguaje C).
+
+**Imagina que Python tiene dos capas:**
+1.  **Capa superior:** Es donde escribes tu código usando las reglas de Python (sintaxis legible).
+2.  **Capa inferior (el motor):** Es el intérprete (escrito en C) que **traduce dinámicamente** tu código a un lenguaje que la máquina puede ejecutar.
 
 ### 3. Lenguaje de propósito general
 Python se puede usar para casi cualquier tarea. Sus áreas más comunes incluyen:
