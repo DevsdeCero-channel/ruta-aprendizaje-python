@@ -4,7 +4,7 @@
 
 ---
 
-## Inicio Rápido
+## Inicio rápido
 
 Sigue el orden de los módulos. Cada módulo contiene vídeos de YouTube y detalles del contenido.
 
