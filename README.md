@@ -16,6 +16,6 @@ Sigue el orden de los módulos. Cada módulo contiene vídeos de YouTube y detal
 
 ---
 
-## 🔗 Sobre el Contenido
+## 🔗 Sobre el contenido
 
 Este repositorio sirve como guía de estudios para aprender Python de forma gratuita y autodidacta. La idea es crear documentación fácil de comprender y ayudar en el aprendizaje con vídeos de apoyo en Youtube. Website muy pronto.
