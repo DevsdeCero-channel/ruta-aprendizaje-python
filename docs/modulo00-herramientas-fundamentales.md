@@ -1,4 +1,4 @@
-# Módulo 0.0: Herramientas fundamentales
+# 0.0: Herramientas fundamentales
 
 ¡Bienvenido al módulo inicial! Aprenderemos a descargar e instalar Python y a manejar de forma básica Git. Algo imprescindible hoy en día.
 
