@@ -2,7 +2,7 @@
 
 ¡Bienvenido al módulo inicial! Aprenderemos a descargar e instalar Python y a manejar de forma básica Git. Algo imprescindible hoy en día.
 
-Este primer módulo es mayormente práctico, por lo tanto todo el contenido se encuentra en formato vídeo, con el objetivo de simplificar las instrucciones de instalación.
+Este primer módulo es mayormente práctico, por lo tanto todo el contenido se encuentra en formato vídeo, con el objetivo de simplificar las instrucciones de instalación de las herramientas.
 
 
 ---
