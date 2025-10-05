@@ -72,10 +72,10 @@ graph TD
             * [El uso del bucle for con la función range()](#el-uso-del-bucle-for-con-la-función-range)
         * [Controlando el flujo del bucle](#controlando-el-flujo-del-bucle)
 * [**Las funciones**](#las-funciones)
-    * [Cómo definir una función](#definir-una-función)
-    * [Cómo llamar a una función](#llamar-a-una-función)
+    * [Cómo definir una función](#cómo-definir-una-función)
+    * [Cómo llamar a una función](#cómo-llamar-a-una-función)
     * [Parámetros y argumentos](#parámetros-y-argumentos)
-    * [El uso de return en una función](#return)
+    * [El uso de return en una función](#el-uso-de-return)
     * [Buenas prácticas](#buenas-prácticas)
     
 ---
