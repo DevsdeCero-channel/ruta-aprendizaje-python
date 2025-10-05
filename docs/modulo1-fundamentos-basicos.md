@@ -75,7 +75,7 @@ graph TD
     * [Cómo definir una función](#cómo-definir-una-función)
     * [Cómo llamar a una función](#cómo-llamar-a-una-función)
     * [Parámetros y argumentos](#parámetros-y-argumentos)
-    * [El uso de return en una función](#el-uso-de-return)
+    * [El uso de return en una función](#el-uso-de-return-en-una-función)
     * [Buenas prácticas](#buenas-prácticas)
     
 ---
