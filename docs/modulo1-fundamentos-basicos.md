@@ -1,4 +1,5 @@
 # Módulo 1. Fundamentos básicos de Python
+> **Enlace al vídeo:** [Ver vídeo de Youtube](https://youtu.be/SIYNHiLDcjc)
 
 ---
 
