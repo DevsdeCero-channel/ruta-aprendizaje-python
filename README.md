@@ -11,7 +11,7 @@ Sigue el orden de los módulos. Cada módulo contiene vídeos de YouTube y detal
 | Módulo | Estado | Enlace Directo |
 | :--- | :--- | :--- |
 | **1. Herramientas Fundamentales** | **✅ Completa** | [Comenzar Módulo 1 (Instalación de Python y Git)](docs/modulo1-herramientas-fundamentales.md) |
-| **2. Fundamentos básicos de Python** | **✅ Completa** | [Comenzar Módulo 2 (Variables, tipos de datos...)](docs/modulo1-herramientas-fundamentales.md) |
+| **2. Fundamentos básicos de Python** | **✅ Completa** | [Comenzar Módulo 2 (¿Qué es Python? Variables, tipos de datos...)](docs/modulo1-herramientas-fundamentales.md) |
 | **Próximos Pasos** | ⏳ Pendiente | *Próximamente: Módulo 3 - Colecciones y Estructuras de Datos* |
 
 ---
