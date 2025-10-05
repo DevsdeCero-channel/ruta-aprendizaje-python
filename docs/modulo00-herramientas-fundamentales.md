@@ -11,7 +11,7 @@ Este primer módulo es mayormente práctico, por lo tanto todo el contenido se e
 
 ```mermaid
 graph LR
-    V1((1. Instalación de Python, Git y creación de cuenta en GitHub)) --> V2((2. Primeros pasos y comandos básicos de Git))--> M2[ Módulo 2]
+    V1((1. Instalación de Python, Git y creación de cuenta en GitHub)) --> V2((2. Primeros pasos y comandos básicos de Git))--> M2[ Módulo 0.1 ]
 ```
 
 ##  Vídeos y contenido
