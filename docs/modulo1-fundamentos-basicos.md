@@ -45,7 +45,7 @@ graph TD
     F --> F2((llamada / ejecución));
     F --> F3((parámetros vs argumentos));
     F --> F4((return));
-    F --> F5((buenas practicas));
+    F --> F5((buenas prácticas));
 ```
 
 ## Índice
