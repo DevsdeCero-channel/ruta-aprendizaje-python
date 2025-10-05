@@ -17,7 +17,7 @@ graph LR
 ##  Vídeos y contenido
 
 ### 1. Cómo descargar e instalar Python, instalar Git y crear cuenta en GitHub
-> **Enlace al vídeo:** [Ver vídeo en YouTube](https://youtu.be/ZDaW7sgYZzk)
+> **Enlace al vídeo:** [Ver vídeo en YouTube](https://youtu.be/ZDaW7sgYZzkautoplay=1)
 
 **Contenido:**
 * Instalación de Python
@@ -26,7 +26,7 @@ graph LR
 * Creación de cuenta en GitHub
 
 ### 2. Git desde cero: primeros pasos y comandos Básicos
-> **Enlace al vídeo:** [Ver vídeo en YouTube](https://youtu.be/il-ZSBh0PAo)
+> **Enlace al vídeo:** [Ver vídeo en YouTube](https://youtu.be/il-ZSBh0PAoautoplay=1)
 
 **Contenido:**
 * ¿Qué es Git? y ¿Qué es GitHub?
