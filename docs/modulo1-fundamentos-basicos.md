@@ -140,10 +140,10 @@ Otra cosa que yo considero importante es familiarizarse con los términos en ing
 Se pueden encerrar en comillas simples ('...') o comillas dobles ("...") con el mismo resultado.
 
 ```python
-'Estudio Python' # entrada
+>>>'Estudio Python' # entrada
 'Estudio Python' # salida 
-"Estudio Python" 
-"Estudio Python" 
+>>>"Estudio Python" 
+'Estudio Python' 
 ```
 
 ### Integers
