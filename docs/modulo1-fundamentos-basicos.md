@@ -141,9 +141,10 @@ Se pueden encerrar en comillas simples ('...') o comillas dobles ("...") con el 
 
 ```python
 'Estudio Python' # entrada
-'Estudio Python' # salida 
-"Estudio Python" 
-'Estudio Python' 
+'Estudio Python' # salida
+
+"Estudio Python" # entrada
+'Estudio Python' # salida
 ```
 
 ### Integers
