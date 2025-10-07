@@ -234,10 +234,10 @@ Con respecto al operador módulo **%** da como resultado 3 porque 4 cabe 4 veces
 Los paréntesis **()** no son considerados operadores aritméticos como tal pero se usan para agrupar operaciones y controlar el orden en que se realizan.
 
 ```python
-25 - 2*3 # entrada 
-19 # salida 
-(25 - 2*3) / 2 # entrada 
-9.5 # salida
+25 - 2*3 # operación 
+19 # resultado 
+(25 - 2*3) / 2  
+9.5 
 ```
 
 ### Operadores de asignación
