@@ -140,9 +140,9 @@ Otra cosa que yo considero importante es familiarizarse con los términos en ing
 Se pueden encerrar en comillas simples ('...') o comillas dobles ("...") con el mismo resultado.
 
 ```python
->>>'Estudio Python' # entrada
+'Estudio Python' # entrada
 'Estudio Python' # salida 
->>>"Estudio Python" 
+"Estudio Python" 
 'Estudio Python' 
 ```
 
@@ -153,7 +153,7 @@ No es necesario escribirlos entre comillas, si lo hiciéramos, estaríamos intro
 ```python
 2 + 2 # suma de integers
 4 # resultado
-'2 + 2' # string
+"2 + 2" # string
 '2 + 2'
 ```
 
@@ -233,10 +233,10 @@ Con respecto al operador módulo **%** da como resultado 3 porque 4 cabe 4 veces
 Los paréntesis **()** no son considerados operadores aritméticos como tal pero se usan para agrupar operaciones y controlar el orden en que se realizan.
 
 ```python
-25 - 2*3
-19
-(25 - 2*3) / 2
-9.5
+25 - 2*3 # entrada 
+19 # salida 
+(25 - 2*3) / 2 # entrada 
+9.5 # salida
 ```
 
 ### Operadores de asignación
